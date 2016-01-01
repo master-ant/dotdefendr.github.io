@@ -34,7 +34,7 @@ Only add commits having to do with that task.
 - Add obstacle collision logic for players, bullets and enemies. - kfarr2 - 12/31/15
 - Debug obstacle layer.
 - Add `achievements` layer.
-- Define `achievement` serializable data structure (so achievements can be loaded from a `.json` file).
+- Define `achievement` serializable data structure (so achievements can be loaded from a `.json` file). - ssean1 - 12/31/2015
 
 ##### These will be decided on later
 
