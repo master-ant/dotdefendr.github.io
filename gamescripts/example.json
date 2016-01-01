@@ -1,0 +1,15 @@
+/* Example Achievements
+ *
+ * Achievements should be structured like this
+{
+    0: {
+        "title": "100 kills",
+        "description": "asdf hjkl",
+        "condition": (TOTAL_KILLS == 100),
+        "unlocked": false
+    },
+    1: {
+        "...": "..."
+    }
+}
+*/
